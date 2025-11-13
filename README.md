@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Kristian Fatohi!
-
-KTH Computer Science student turning algorithms into real-world magic. From C++ OOP to Python AI — building tools that matter.
+# 👋 Hey!
 
 ## 🔥 Featured Projects
 | Project | Description | Tech | Link |
