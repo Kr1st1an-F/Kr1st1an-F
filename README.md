@@ -5,7 +5,7 @@
 |---------|-------------|------|
 | [Stock Analyzer Tool](https://github.com/Kr1st1an-F/Stock-Analyzer-Tool) | Implemented a lazy tool to analyze stocks | Python, API |
 | [DD2421 Machine Learning](https://github.com/Kr1st1an-F/DD2421) | Decision Trees • SVM • Bayesian Learning & Boosting | Python, scikit |
-| [DD2424 Robotics Project](https://github.com/Kr1st1an-F/DD2424-Project) | Autonomous robot simulation | Python, ROS |
+| SnackGen | AI Diet Planner | Coming Soon! |
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
