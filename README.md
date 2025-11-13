@@ -1,11 +1,11 @@
 # 👋 Hey!
 
 ## 🔥 Featured Projects
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| [Stock Analyzer Tool](https://github.com/Kr1st1an-F/Stock-Analyzer-Tool) | Implemented a lazy tool to analyze stocks | Python, API | ![Stars](https://img.shields.io/github/stars/Kr1st1an-F/DD2380?style=social) |
-| [DT100G Web Dev](https://github.com/Kr1st1an-F/DT100G) | Built responsive sites with modern JS | JavaScript, HTML/CSS | ![Demo](https://img.shields.io/badge/Live-Demo-brightgreen) |
-| [DD2424 Robotics Project](https://github.com/Kr1st1an-F/DD2424-Project) | Autonomous robot simulation | Python, ROS | Coming Soon! |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Stock Analyzer Tool](https://github.com/Kr1st1an-F/Stock-Analyzer-Tool) | Implemented a lazy tool to analyze stocks | Python, API |
+| [DD2421 Machine Learning](https://github.com/Kr1st1an-F/DD2421) | Decision Trees • SVM • Bayesian Learning & Boosting | Python, scikit |
+| [DD2424 Robotics Project](https://github.com/Kr1st1an-F/DD2424-Project) | Autonomous robot simulation | Python, ROS |
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
